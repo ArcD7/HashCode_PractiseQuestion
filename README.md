@@ -1,3 +1,3 @@
 # HashCode_PractiseQuestion
 
-Solution to the practise question of HashCode 2020
+Solution to the practice question of HashCode 2020.
